@@ -6,7 +6,7 @@ layout: tic-tac
 
 # Quiz Game
 
-![Header](assets/image/riddler.PNG)
+![Header](riddler.PNG)
 {: .text-center }
 
 ## Instructions
