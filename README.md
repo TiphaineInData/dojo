@@ -11,6 +11,7 @@ Bienvenue dans ce dojo Python ! Votre mission : **coder un jeu de quiz en Python
 Vous travaillez **en groupe** : tout le monde participe à la réflexion et au code. Pour coder ensemble en temps réel, utilisez [Deepnote](https://deepnote.com) — connectez-vous simplement avec votre compte Google et partagez le notebook avec votre équipe.
 
 À vous de créer les questions : culture générale, ciné, jeux vidéo, questions piège... soyez créatifs ! Et à la fin du dojo, **je passe tester votre jeu** en direct : préparez-vous à me faire jouer une partie complète !
+
 ## Instructions
 - Le quiz doit contenir exactement 3 questions, et donc 3 réponses.
 - Le joueur aura 3 essais par question.
@@ -18,6 +19,7 @@ Vous travaillez **en groupe** : tout le monde participe à la réflexion et au c
 - Afficher des messages quand il perd, gagne, quand son nombre d'essais évolue.
 - Arrêter le jeu si l'utilisateur perd tous ses essais.
 - **Bonus** : Mettre en place un compteur de points à chaque bonne réponse et lui afficher.
+  
 ## Spécifications
 - Utiliser, à minima, une collection de données pour stocker les questions et réponses attendues.
 - Utiliser des boucles.
